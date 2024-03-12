@@ -1,0 +1,16 @@
+{
+  "name": "opdracht_01-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "prod": "sass styles.scss:css/styles.css",
+    "dev": "sass --watch styles.scss:css/styles.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.68.0"
+  }
+}
